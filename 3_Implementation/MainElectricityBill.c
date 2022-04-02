@@ -30,6 +30,8 @@ void main()
 		case 2:
 			Rural();
 			break;
+		case 3:
+			break;
 		default:
 			printf("SORRY INVALID CHOICE!\n");
 			printf("PLEASE CHOOSE FROM 1 or 2\n");
